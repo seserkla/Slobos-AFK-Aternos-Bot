@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VoryxMC.aternos.me",
+    "ip": "VoryxMC.aternos.me:19117",
     "port": 19117,
     "version": "1.21.11",
     "try-creative": false
